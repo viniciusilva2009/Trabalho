@@ -1,1 +1,65 @@
-
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    }
+    
+    /* Estilização das seções */
+    .section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    
+    /* Cores para cada seção */
+    #section1 {
+    background-color: #e3f2fd; /* Azul claro */
+    color: #0d47a1; /* Azul escuro */
+    }
+    
+    #section2 {
+    background-color: #fce4ec; /* Rosa claro */
+    color: #880e4f; /* Rosa escuro */
+    }
+    
+    #section3 {
+    background-color: #e8f5e9; /* Verde claro */
+    
+    color: #1b5e20; /* Verde escuro */
+    }
+    
+    /* Estilo dos títulos */
+    h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+    }
+    
+    h2 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-style: italic;
+    }
+    
+    /* Estilo do texto */
+    p {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+    }
+    
+    /* Estilo das imagens */
+    img {
+    display: block;
+    margin: 15px auto;
+    max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    
+    }
