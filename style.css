@@ -19,18 +19,18 @@ body {
     /* Cores para cada seção */
     #section1 {
     background-color: #DEAA79; /* Azul claro */
-    color: #FFE6A9; /* Azul escuro */
+    color: #000000; /* Azul escuro */
     }
     
     #section2 {
-    background-color: #fce4ec; /* Rosa claro */
-    color: #880e4f; /* Rosa escuro */
+    background-color: #000B58; /* Rosa claro */
+    color: #4CC9FE; /* Rosa escuro */
     }
     
     #section3 {
-    background-color: #e8f5e9; /* Verde claro */
+    background-color: #229799; /* Verde claro */
     
-    color: #1b5e20; /* Verde escuro */
+    color: #F5F5F5; /* Verde escuro */
     }
     
     /* Estilo dos títulos */
